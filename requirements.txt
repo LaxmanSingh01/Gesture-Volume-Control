@@ -1,0 +1,10 @@
+﻿Cython==0.29.24
+streamlit
+opencv-python
+time
+mediapipe
+numpy
+math
+ctypes
+comtypes
+pycaw
