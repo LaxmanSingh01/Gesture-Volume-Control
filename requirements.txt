@@ -3,5 +3,6 @@ opencv-python-headless
 mediapipe
 numpy
 pycaw
+comtypes
 
 
