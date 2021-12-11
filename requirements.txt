@@ -4,5 +4,6 @@ mediapipe
 numpy
 pycaw
 comtypes
+COMError
 
 
