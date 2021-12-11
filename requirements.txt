@@ -1,4 +1,3 @@
-﻿Cython==0.29.24
 streamlit
 opencv-python
 time
