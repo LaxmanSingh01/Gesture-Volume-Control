@@ -2,7 +2,6 @@ streamlit
 opencv-python
 mediapipe
 numpy
-math
 ctypes
 comtypes
 pycaw
