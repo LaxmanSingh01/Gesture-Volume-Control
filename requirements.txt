@@ -1,9 +1,0 @@
-streamlit
-opencv-python-headless
-mediapipe
-numpy
-pycaw
-comtypes
-COMError
-
-
